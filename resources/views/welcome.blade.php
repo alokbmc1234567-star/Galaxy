@@ -192,7 +192,7 @@
                 <div class="space-y-4">
                     <div class="flex items-center space-x-4 group">
                         <div class="w-10 h-10 rounded-full bg-white/5 border border-white/10 flex items-center justify-center group-hover:border-purple-500 transition"><i data-lucide="map-pin" class="w-5 h-5 text-purple-500"></i></div>
-                        <span class="text-sm text-gray-300">ផ្លូវផ្កាយព្រះគ្រោះ, ភ្នំពេញ, កម្ពុជា</span>
+                        <span class="text-sm text-gray-300">បន្ទាយមានជ័យ, ថ្មពួក, ស្រែល្អ</span>
                     </div>
                 </div>
             </div>
